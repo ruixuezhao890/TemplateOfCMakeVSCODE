@@ -1,0 +1,3 @@
+D:/CODE/vsCode/Cmake/build/CMakeFiles/My_Project.dir
+D:/CODE/vsCode/Cmake/build/CMakeFiles/edit_cache.dir
+D:/CODE/vsCode/Cmake/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,20 @@
+[
+{
+  "directory": "D:/CODE/vsCode/Cmake/build",
+  "command": "D:\\MinGw8.1\\mingw64\\bin\\g++.exe  @CMakeFiles/My_Project.dir/includes_CXX.rsp -g -o CMakeFiles\\My_Project.dir\\src\\sort.cpp.obj -c D:\\CODE\\vsCode\\Cmake\\src\\sort.cpp",
+  "file": "D:/CODE/vsCode/Cmake/src/sort.cpp",
+  "output": "CMakeFiles/My_Project.dir/src/sort.cpp.obj"
+},
+{
+  "directory": "D:/CODE/vsCode/Cmake/build",
+  "command": "D:\\MinGw8.1\\mingw64\\bin\\g++.exe  @CMakeFiles/My_Project.dir/includes_CXX.rsp -g -o CMakeFiles\\My_Project.dir\\test.cpp.obj -c D:\\CODE\\vsCode\\Cmake\\test.cpp",
+  "file": "D:/CODE/vsCode/Cmake/test.cpp",
+  "output": "CMakeFiles/My_Project.dir/test.cpp.obj"
+},
+{
+  "directory": "D:/CODE/vsCode/Cmake/build",
+  "command": "D:\\MinGw8.1\\mingw64\\bin\\g++.exe  @CMakeFiles/My_Project.dir/includes_CXX.rsp -g -o CMakeFiles\\My_Project.dir\\Student\\student.cpp.obj -c D:\\CODE\\vsCode\\Cmake\\Student\\student.cpp",
+  "file": "D:/CODE/vsCode/Cmake/Student/student.cpp",
+  "output": "CMakeFiles/My_Project.dir/Student/student.cpp.obj"
+}
+]

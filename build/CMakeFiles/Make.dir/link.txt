@@ -1,0 +1,3 @@
+D:\Cmake\bin\cmake.exe -E rm -f CMakeFiles\Make.dir/objects.a
+D:\MinGw8.1\mingw64\bin\ar.exe qc CMakeFiles\Make.dir/objects.a @CMakeFiles\Make.dir\objects1.rsp
+D:\MinGw8.1\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Make.dir/objects.a -Wl,--no-whole-archive -o Make.exe -Wl,--out-implib,libMake.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Make.dir\linkLibs.rsp
